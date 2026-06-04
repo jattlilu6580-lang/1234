@@ -49,7 +49,7 @@ def get_uptime():
 TOKEN = '8941909768:AAHysYTz7LhCcY1YsShNjmsb_JsYbZKbheY'
 OWNER_ID = 6158836385 
 ADMIN_ID = 6158836385
-YOUR_USERNAME = '@ASUR_DEVELOPER'
+YOUR_USERNAME = '@ASURPAPA'
 UPDATE_CHANNEL = 'https://t.me/ASUR_ABOUT'
 
 A4F_API_URL = "https://samuraiapi.in/v1/chat/completions"
